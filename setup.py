@@ -4,7 +4,7 @@ setup(
     version='1.0.0',
     author='daniil',
     author_email='danik20110723@gmail.com',
-    url='',
+    url='https://github.com/DanikArduino/MathX',
     description='Extended math library for Python',
     long_description=open('README.md').read(),
     long_description_content_type = 'text/markdown',
